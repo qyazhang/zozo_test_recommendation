@@ -1,1 +1,5 @@
 /ml-100k
+/dataset/yes_big
+/dataset/yes_small
+/log
+ItemCFRecord.txt
