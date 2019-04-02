@@ -42,8 +42,8 @@
   
   We could get the result by running 
   
-    python ItemCF.py //In Win
-    python3 ItemCF.py //In Linux/Mac
+    python word2vecRec.py //In Win
+    python3 word2vecRec.py //In Linux/Mac
   
   Here I load the dataset and add the tag of singers to each song ID to build an "artical". Use this artical and 
   word2vec in tensorflow, we could get the result model of word's similarity (or saying, relationship). The model and 
